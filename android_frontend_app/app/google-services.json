@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730334874365",
+    "project_id": "cityzen-app-43bde",
+    "storage_bucket": "cityzen-app-43bde.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730334874365:android:1da1d12c138ab4a972cc94",
+        "android_client_info": {
+          "package_name": "com.example.cityzen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd0Q8pMO7dC6_tEGDaQSUIozrLQ1UI5J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
