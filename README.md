@@ -1,4 +1,4 @@
-# CityZen - Full-Stack Municipality Complaint Management System
+# CityZen - Full Stack Municipality Complaint Management System
 
 CityZen is a comprehensive complaint management system designed for municipalities. It empowers citizens to report issues, track complaint statuses, and  enables administrators to efficiently track, manage, and resolve complaints through a centralized platform.
 
